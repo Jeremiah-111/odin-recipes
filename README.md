@@ -9,4 +9,4 @@ Through this project, I will demonstrate my understanding of:
 
 By the end of this project, I will have a better grasp of web development fundamentals.
 
-test test test
+test
