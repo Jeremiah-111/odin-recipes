@@ -1,0 +1,31 @@
+.homepage-title {
+    background-color: yellow;
+    color: blueviolet;
+    text-align: center;
+}
+
+.homepage-list a {
+    color: black;
+}
+
+.recipe-page-title {
+    color: rgb(0, 128, 38);
+}
+
+.food-title {
+    background-color: green;
+    color: red;
+}
+
+.ordered-list {
+    color: blue;
+}
+
+.unordered-list {
+    background-color: orange;
+    color: aqua;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
